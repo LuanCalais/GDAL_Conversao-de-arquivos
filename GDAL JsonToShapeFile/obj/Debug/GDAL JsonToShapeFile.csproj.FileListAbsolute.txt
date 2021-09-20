@@ -1,0 +1,15 @@
+C:\Users\luanc\source\repos\GDAL JsonToShapeFile\GDAL JsonToShapeFile\bin\Debug\GDAL JsonToShapeFile.exe.config
+C:\Users\luanc\source\repos\GDAL JsonToShapeFile\GDAL JsonToShapeFile\bin\Debug\GDAL JsonToShapeFile.exe
+C:\Users\luanc\source\repos\GDAL JsonToShapeFile\GDAL JsonToShapeFile\bin\Debug\GDAL JsonToShapeFile.pdb
+C:\Users\luanc\source\repos\GDAL JsonToShapeFile\GDAL JsonToShapeFile\bin\Debug\DotNetZip.dll
+C:\Users\luanc\source\repos\GDAL JsonToShapeFile\GDAL JsonToShapeFile\bin\Debug\gdalconst_csharp.dll
+C:\Users\luanc\source\repos\GDAL JsonToShapeFile\GDAL JsonToShapeFile\bin\Debug\gdal_csharp.dll
+C:\Users\luanc\source\repos\GDAL JsonToShapeFile\GDAL JsonToShapeFile\bin\Debug\ogr_csharp.dll
+C:\Users\luanc\source\repos\GDAL JsonToShapeFile\GDAL JsonToShapeFile\bin\Debug\osr_csharp.dll
+C:\Users\luanc\source\repos\GDAL JsonToShapeFile\GDAL JsonToShapeFile\bin\Debug\DotNetZip.pdb
+C:\Users\luanc\source\repos\GDAL JsonToShapeFile\GDAL JsonToShapeFile\bin\Debug\DotNetZip.xml
+C:\Users\luanc\source\repos\GDAL JsonToShapeFile\GDAL JsonToShapeFile\obj\Debug\GDAL JsonToShapeFile.csproj.AssemblyReference.cache
+C:\Users\luanc\source\repos\GDAL JsonToShapeFile\GDAL JsonToShapeFile\obj\Debug\GDAL JsonToShapeFile.csproj.CoreCompileInputs.cache
+C:\Users\luanc\source\repos\GDAL JsonToShapeFile\GDAL JsonToShapeFile\obj\Debug\GDAL JsonToShapeFile.csproj.CopyComplete
+C:\Users\luanc\source\repos\GDAL JsonToShapeFile\GDAL JsonToShapeFile\obj\Debug\GDAL JsonToShapeFile.exe
+C:\Users\luanc\source\repos\GDAL JsonToShapeFile\GDAL JsonToShapeFile\obj\Debug\GDAL JsonToShapeFile.pdb
